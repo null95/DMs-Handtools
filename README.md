@@ -3,4 +3,6 @@ and most importantly - realistic weather. Created in Unity.
 
 Please read the license, especially if you want to distribute the app.
 
+If you want to support me, you can buy me a coffee at https://ko-fi.com/foxiallis
+
 Some content used under Open Game License.
